@@ -1,0 +1,16 @@
+{
+  "name": "android-tv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "cloud65",
+  "license": "MIT",
+  "dependencies": {
+    "androidtv-remote": "^1.0.10",
+    "mqtt": "^5.10.3"
+  }
+}
